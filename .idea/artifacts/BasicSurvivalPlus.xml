@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BasicSurvivalPlus">
+    <output-path>$PROJECT_DIR$/out/artifacts/BasicSurvivalPlus</output-path>
+    <root id="archive" name="BasicSurvivalPlus.jar">
+      <element id="module-output" name="BasicSurvivalPlus" />
+    </root>
+  </artifact>
+</component>

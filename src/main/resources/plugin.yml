@@ -1,0 +1,14 @@
+name: BasicSurvivalPlus
+main: studio.kncx.basicsurvivalplus.Main
+version: 1.0.1
+
+commands:
+   exprate:
+      usage: /<command>
+      description: 查看或调整经验倍率
+
+
+permission:
+   exprate.change:
+      description: 修改服务器经验倍率权限
+      default: op
